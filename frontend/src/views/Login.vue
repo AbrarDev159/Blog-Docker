@@ -61,16 +61,6 @@
                   <RouterLink to="/signup" class="text-primary fw-bold">SignUp</RouterLink>
                 </p>
               </div>
-              <div class="text-center mt-3">
-                Email: user1@email.com
-                <br>
-                Password: user1pw
-              </div>
-              <div class="text-center mt-3">
-                Email: user2@email.com
-                <br>
-                Password: user2pw
-              </div>
             </div>
 
           </div>
